@@ -3,10 +3,5 @@
         "name": "MLPP",
         "type": 1,
         "url": "https://raw.githubusercontent.com/TheElderFallouts/wwbtp/master/PC"
-    },
-    {
-        "name": "MLPP_mirror",
-        "type": 1,
-        "url": "https://raw.githubusercontent.com/TheElderFallouts/wwbtp/master/PC"
     }
 ]
