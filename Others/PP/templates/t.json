@@ -1,0 +1,18 @@
+{
+    "bill": {
+        "name": "bill_t.png",
+        "x": -496,
+        "y": 262,
+        "width": 96,
+        "height": 144,
+        "sectors": false
+    },
+    "bill_circle": {
+        "name": "bill_circle_t.png",
+        "x": 985,
+        "y": -1327,
+        "width": 185,
+        "height": 191,
+        "sectors": false
+    }
+}
