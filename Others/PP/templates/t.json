@@ -1,6 +1,6 @@
 {
     "bill": {
-        "name": "bill_t.png",
+        "name": "bill.png",
         "x": -496,
         "y": 262,
         "width": 96,
@@ -8,11 +8,19 @@
         "sectors": false
     },
     "bill_circle": {
-        "name": "bill_circle_t.png",
+        "name": "bill_circle.png",
         "x": 985,
         "y": -1327,
         "width": 185,
         "height": 191,
+        "sectors": false
+    },
+    "pirate_ship": {
+        "name": "pirate_ship.png",
+        "x": 827,
+        "y": -1248,
+        "width": 149,
+        "height": 90,
         "sectors": false
     }
 }
