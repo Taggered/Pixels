@@ -22,5 +22,13 @@
         "width": 149,
         "height": 90,
         "sectors": false
+    },
+    "planets_and_roots": {
+        "name": "planets_and_roots.png",
+        "x": 82,
+        "y": 1024,
+        "width": 200,
+        "height": 200,
+        "sectors": false
     }
 }
