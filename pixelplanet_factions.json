@@ -2,13 +2,11 @@
     {
         "name": "MLPP",
         "type": 1,
-        "url": "https://raw.githubusercontent.com/TheElderFallouts/wwbtp/master/PP",
-        "artListType": 1
+        "url": "https://raw.githubusercontent.com/TheElderFallouts/wwbtp/master/PP"
     },
     {
         "name": "Others",
         "type": 1,
-        "url": "https://raw.githubusercontent.com/Taggered/Pixels/main/Others/PP",
-        "artListType": 3
+        "url": "https://raw.githubusercontent.com/Taggered/Pixels/main/Others/PP"
     }
 ]
