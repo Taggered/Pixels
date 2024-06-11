@@ -1,10 +1,10 @@
 {
     "greenland_ponies": {
         "name": "greenland_ponies.png",
-        "x": -1310,
+        "x": -1443,
         "y": -6114,
-        "width": 355,
-        "height": 425,
+        "width": 488,
+        "height": 448,
         "sectors": false
     }
 }
