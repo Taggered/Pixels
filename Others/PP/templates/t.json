@@ -39,5 +39,14 @@
         "height": 220,
         "sectors": false
 
+    },
+    "thedealisdone": {
+        "name": "thedealisdone.png",
+        "x": -406,
+        "y": 145,
+        "width": 71,
+        "height": 89,
+        "sectors": false
+
     }
 }
