@@ -6,5 +6,13 @@
         "width": 1284,
         "height": 746,
         "sectors": false
+    },
+    "mexico": {
+        "name": "Mexico.png",
+        "x": -20527,
+        "y": -5212,
+        "width": 612,
+        "height": 810,
+        "sectors": false
     }
 }
